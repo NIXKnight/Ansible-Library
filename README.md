@@ -1,5 +1,5 @@
 # **Ansible Library**
-Custom collection of Ansible modules.
+Custom collection of Ansible modules and filter plugins.
 
 ## **License**
 
